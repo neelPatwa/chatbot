@@ -4,8 +4,10 @@ Chat Bot with chatroom &amp; BOT feature
 This is a simple chat room built using Django Channels.
 
 FEATURES:
--Chatroom
--Use '@RON' to satrt conversation with BOT
+
+Chatroom
+
+Use '@RON' to satrt conversation with BOT
 
 
 Setup instructions on Ubuntu 16.04:
